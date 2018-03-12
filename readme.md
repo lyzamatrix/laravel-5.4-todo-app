@@ -2,13 +2,13 @@ Laravel 5.4 ToDo List App
 
 Installation:
 
-Clone the repo in your local.
-Go to root of the project and run command "composer update"
-Create a database and call it "laravel 5.4 todo-app".
-Edit .env file and use your MySQL database credentials.
-Run "php artisan migrate".
-Start the server using "php artisan serve".
-Go to this URL: http://localhost:8000/crud/create
+1. Clone the repo in your local.
+2. Go to root of the project and run command "composer update"
+3. Create a database and call it "laravel 5.4 todo-app".
+4. Edit .env file and use your MySQL database credentials.
+5. Run "php artisan migrate".
+6. Start the server using "php artisan serve".
+7. Go to this URL: http://localhost:8000/crud/create
 
 Features:
 
