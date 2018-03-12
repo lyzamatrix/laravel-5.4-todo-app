@@ -1,3 +1,23 @@
+Laravel 5.4 ToDo List App
+
+Installation:
+
+Clone the repo in your local.
+Go to root of the project and run command "composer update"
+Create a database and call it "laravel 5.4 todo-app".
+Edit .env file and use your MySQL database credentials.
+Run "php artisan migrate".
+Start the server using "php artisan serve".
+Go to this URL: http://localhost:8000/crud/create
+
+Features:
+
+Create a new task.
+Edit a task
+Delete a task.
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
