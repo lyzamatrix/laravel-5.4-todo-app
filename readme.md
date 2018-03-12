@@ -12,9 +12,9 @@ Installation:
 
 Features:
 
-Create a new task.
-Edit a task
-Delete a task.
+-Create a new task
+-Edit a task
+-Delete a task
 
 
 
